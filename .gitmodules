@@ -1,0 +1,3 @@
+[submodule "frontend/langchain"]
+	path = frontend/langchain
+	url = https://github.com/panini235/langchain.git

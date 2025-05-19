@@ -1,0 +1,5 @@
+file --> DocumentLoader --> FileChunker --> Embedder --> VectorManager
+
+
+
+query --> embedding --> search --> prompt --> ai --> response
